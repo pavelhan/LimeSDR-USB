@@ -32,7 +32,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=2ECE73BD-F6F1-4025-997E-9D7B03CDF58F
+ManagedProjectGUID=
 
 [Preferences]
 PrefsVaultGUID=
