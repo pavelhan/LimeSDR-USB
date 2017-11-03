@@ -30,7 +30,8 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=47906E74-16BF-4D07-B98F-6A0BDEBB3E8D
+VaultGUID=EC374419-B9F1-43A4-9FCA-AC4878DB3AEF
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -754,7 +755,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=\\KIVCORPDC02\Samsung SCX-4824FN (Kiev Office)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1233,6 +1234,11 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Web ReviewOutputName
+OutputName10=Web Review Data
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1542,6 +1548,8 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
+MultiChannelAlternate=2
+AlternateItemFail=3
 
 [ERC Connection Matrix]
 L1=WNNNNNNNWNNWNNNWF
